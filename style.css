@@ -1,0 +1,38 @@
+.container{
+    width:700px;
+    margin:8rem auto;
+    background-color:aquamarine;
+    border:1px solid black;
+    border-radius:.3rem;
+    padding: 3rem;
+
+}
+h1{
+    text-align: center;
+
+}
+p{
+    text-align:center;
+    
+}
+#inputf{
+    width:300px;
+    margin: 0 auto;
+
+}
+#inputf input{
+    width:70%;
+    display: inline-block;
+
+}
+#inputf input button{
+    width:25%;
+    display: inline-block;
+
+}
+#results{
+    text-align: center;
+    list-style: none;
+    padding-right:6rem;
+
+}
